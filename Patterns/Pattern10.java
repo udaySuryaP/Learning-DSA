@@ -1,4 +1,4 @@
-//Advanced Pattern Type 01
+//Advanced Pattern Type 01 - Butterfly Pattern
 
 public class Pattern10 {
 
